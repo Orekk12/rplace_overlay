@@ -14,7 +14,7 @@ if (window.top !== window.self) {
         (function () {
             const div = document.createElement("div");
             div.id = "Silksong";
-            div.style = "height:2300px; width:2500px; position: absolute; inset: 0px; transform: translateX(24050px) translateY(21250px);   background-size: cover; image-rendering: pixelated;" +
+            div.style = "height:2300px; width:2500px; position: absolute; inset: 0px; transform: translateX(24050px) translateY(20750px);   background-size: cover; image-rendering: pixelated;" +
     "background-image: url('https://github.com/Orekk12/rplace_chad_turk/blob/main/pperfectzade.png?raw=true'); opacity: 0.3;";
             return div;
         })())
