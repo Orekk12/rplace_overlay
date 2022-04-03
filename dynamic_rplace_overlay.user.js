@@ -9,6 +9,8 @@
 // @grant        none
 // ==/UserScript==
 
+//This script adds an overlay for the given image url on the given image coordinates with a configurable slide for opacity.
+
 //Example image links:
 //CHAD Greek Turk: https://github.com/Orekk12/rplace_overlay/raw/main/greekgod_pperfect2.jpg , 1201,701
 //Fil Necati: https://github.com/Orekk12/rplace_overlay/raw/main/fil-necati.png , 1599,330
