@@ -10,15 +10,15 @@
 // ==/UserScript==
 
 //Example image links:
-//CHAD Greek Turk: https://github.com/Orekk12/rplace_overlay/raw/main/greekgod_pperfect2.jpg
-//Fil Necati: https://github.com/Orekk12/rplace_overlay/raw/main/fil-necati.png
+//CHAD Greek Turk: https://github.com/Orekk12/rplace_overlay/raw/main/greekgod_pperfect2.jpg , 1201,701
+//Fil Necati: https://github.com/Orekk12/rplace_overlay/raw/main/fil-necati.png , 1599,330
 //CHAD Turk: https://github.com/Orekk12/rplace_overlay/raw/main/pperfectzade.png
 //Images should be pixel perfect for r/place
 
 //Enter the image url here then Enter x and y coordinates on the place
-var img_url = "https://github.com/Orekk12/rplace_overlay/raw/main/fil-necati.png";
-var x_coord = 1599;//tr: placedeki resmin en sol üst koordinatını giriniz ve resim linkini yukarıya giriniz.
-var y_coord = 330;//default hali: fil necati koordinatları
+var img_url = "https://github.com/Orekk12/rplace_overlay/raw/main/greekgod_pperfect2.jpg";
+var x_coord = 1201;//tr: placedeki resmin en sol üst koordinatını giriniz ve resim linkini yukarıya giriniz.
+var y_coord = 701;//default hali: "chad greek turk" koordinatları
 
 var img_height = 100;//default values, it will update itself with given image link above
 var img_width = 92;
