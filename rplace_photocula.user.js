@@ -24,8 +24,8 @@
 
 //Enter the image url here then Enter x and y coordinates on the place
 var img_url = "https://cdn.discordapp.com/attachments/536500200655552512/960457930497478666/unknown.png";
-var x_coord = 0;//tr: placedeki resmin en sol üst koordinatını giriniz ve resim linkini yukarıya giriniz.
-var y_coord = 0;//default hali: "chad greek turk" koordinatları
+var x_coord = 1963;//tr: placedeki resmin en sol üst koordinatını giriniz ve resim linkini yukarıya giriniz.
+var y_coord = 1483;//default hali: "chad greek turk" koordinatları
 
 var img_height = 100;//default values, it will update itself with given image link above
 var img_width = 92;
