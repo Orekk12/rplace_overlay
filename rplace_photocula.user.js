@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Dynamic r/place Overlay Script
+// @name         Dynamic r/place Overlay Script Photocula
 // @namespace    https://www.reddit.com/r/place/
 // @version      0.6
 // @description  try to take over r/place!
