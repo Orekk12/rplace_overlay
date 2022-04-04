@@ -23,7 +23,7 @@
 //var y_coord = 701;//default hali: "chad greek turk" koordinatları
 
 //Enter the image url here then Enter x and y coordinates on the place
-var img_url = "https://cdn.discordapp.com/attachments/536500200655552512/960457930497478666/unknown.png";
+var img_url = "https://cdn.discordapp.com/attachments/536500200655552512/960460699224645682/unknown.png";
 var x_coord = 1961;//tr: placedeki resmin en sol üst koordinatını giriniz ve resim linkini yukarıya giriniz.
 var y_coord = 1475;//default hali: "chad greek turk" koordinatları
 
