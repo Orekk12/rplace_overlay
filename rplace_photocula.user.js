@@ -24,7 +24,7 @@
 
 //Enter the image url here then Enter x and y coordinates on the place
 var img_url = "https://github.com/Orekk12/rplace_overlay/raw/main/pixelart/photcula1.png";
-var x_coord = 1014;//tr: placedeki resmin en sol üst koordinatını giriniz ve resim linkini yukarıya giriniz.
+var x_coord = 1024;//tr: placedeki resmin en sol üst koordinatını giriniz ve resim linkini yukarıya giriniz.
 var y_coord = 1742;//default hali: "chad greek turk" koordinatları
 
 var img_height = 100;//default values, it will update itself with given image link above
