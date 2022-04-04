@@ -23,9 +23,9 @@
 //var y_coord = 701;//default hali: "chad greek turk" koordinatları
 
 //Enter the image url here then Enter x and y coordinates on the place
-var img_url = "https://github.com/Orekk12/rplace_overlay/raw/main/pixelart/photocula2.png";
-var x_coord = 1024;//tr: placedeki resmin en sol üst koordinatını giriniz ve resim linkini yukarıya giriniz.
-var y_coord = 1742;//default hali: "chad greek turk" koordinatları
+var img_url = "https://github.com/Orekk12/rplace_overlay/raw/main/pixelart/photocula3.png";
+var x_coord = 999;//tr: placedeki resmin en sol üst koordinatını giriniz ve resim linkini yukarıya giriniz.
+var y_coord = 1758;//default hali: "chad greek turk" koordinatları
 
 var img_height = 100;//default values, it will update itself with given image link above
 var img_width = 92;
