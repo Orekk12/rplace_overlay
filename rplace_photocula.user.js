@@ -23,7 +23,7 @@
 //var y_coord = 701;//default hali: "chad greek turk" koordinatları
 
 //Enter the image url here then Enter x and y coordinates on the place
-var img_url = "https://github.com/Orekk12/rplace_overlay/raw/main/pixelart/photcula1.png";
+var img_url = "https://github.com/Orekk12/rplace_overlay/blob/main/pixelart/photocula2.png";
 var x_coord = 1024;//tr: placedeki resmin en sol üst koordinatını giriniz ve resim linkini yukarıya giriniz.
 var y_coord = 1742;//default hali: "chad greek turk" koordinatları
 
